@@ -20,8 +20,9 @@ subjectID     1..30
 
 Features
 Values:
-              tBodyAcc-mean()-X 
               
+              
+              tBodyAcc-mean()-X 
               tBodyAcc-mean()-Y 
               tBodyAcc-mean()-Z 
               tBodyAcc-std()-X 
